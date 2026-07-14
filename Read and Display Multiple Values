@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main()
+{
+    int roll;
+    float marks;
+    char grade;
+
+    printf("Enter Roll Number: ");
+    scanf("%d", &roll);
+
+    printf("Enter Marks: ");
+    scanf("%f", &marks);
+
+    printf("Enter Grade: ");
+    scanf(" %c", &grade);
+
+    printf("\nRoll Number = %d", roll);
+    printf("\nMarks = %.2f", marks);
+    printf("\nGrade = %c", grade);
+
+    return 0;
+}
+Sample Output
+Enter Roll Number: 101
+Enter Marks: 89.50
+Enter Grade: A
+
+Roll Number = 101
+Marks = 89.50
+Grade = A
