@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("************\n");
+    printf("*          *\n");
+    printf("*  C LANG  *\n");
+    printf("*          *\n");
+    printf("************");
+
+    return 0;
+}
+Output
+************
+*          *
+*  C LANG  *
+*          *
+************
