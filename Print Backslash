@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("C:\\Users\\Yamuna");
+
+    return 0;
+}
+Output
+C:\Users\Yamuna
