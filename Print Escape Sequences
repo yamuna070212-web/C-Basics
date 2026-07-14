@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("C Programming\n");
+    printf("AI\tML\n");
+    printf("Welcome!");
+
+    return 0;
+}
+Output
+C Programming
+AI      ML
+Welcome!
