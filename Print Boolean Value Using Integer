@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    int isPassed = 1;
+    int isFailed = 0;
+
+    printf("Passed = %d\n", isPassed);
+    printf("Failed = %d", isFailed);
+
+    return 0;
+}
+Output
+Passed = 1
+Failed = 0
