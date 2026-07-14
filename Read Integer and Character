@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main()
+{
+    int roll;
+    char section;
+
+    printf("Enter Roll Number: ");
+    scanf("%d", &roll);
+
+    printf("Enter Section: ");
+    scanf(" %c", &section);
+
+    printf("Roll = %d\n", roll);Enter Roll Number: 101
+Enter Section: A
+
+Roll = 101
+Section = A
+    printf("Section = %c", section);
+
+    return 0;
+)
+Sample Output
