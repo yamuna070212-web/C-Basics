@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    float percentage = 91.5;
+
+    printf("Percentage = %.1f%%", percentage);
+
+    return 0;
+}
+Output
+Percentage = 91.5%
