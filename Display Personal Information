@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Name    : Yamuna\n");
+    printf("College : Gopalan College of Engineering and Management\n");
+    printf("Course  : BE CSE (AI & ML)\n");
+    printf("Semester: 3");
+
+    return 0;
+}
+Output
+Name    : Yamuna
+College : Gopalan College of Engineering and Management
+Course  : BE CSE (AI & ML)
+Semester: 3
