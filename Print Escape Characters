@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello\tWorld\n");
+    printf("C\\Programming");
+
+    return 0;
+}
+Output
+Hello    World
+C\Programming
