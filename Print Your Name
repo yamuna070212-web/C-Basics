@@ -1,0 +1,10 @@
+v#include <stdio.h>
+
+int main()
+{
+    printf("My name is Yamuna.");
+
+    return 0;
+}
+Output
+My name is Yamuna.
