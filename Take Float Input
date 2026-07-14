@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    float marks;
+
+    printf("Enter marks: ");
+    scanf("%f", &marks);
+
+    printf("Marks = %.2f", marks);
+
+    return 0;
+}
+Sample Output
+Enter marks: 85.50
+Marks = 85.50
