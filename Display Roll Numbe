@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    int roll = 125;
+
+    printf("Roll Number = %d", roll);
+
+    return 0;
+}
+Output
+Roll Number = 125
