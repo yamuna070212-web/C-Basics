@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+    char a, b;
+
+    printf("Enter two characters: ");
+    scanf(" %c %c", &a, &b);
+
+    printf("First = %c\n", a);
+    printf("Second = %c", b);
+
+    return 0;
+}
+Sample Output
+Enter two characters: A B
+First = A
+Second = B
