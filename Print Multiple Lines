@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Welcome to C Programming\n");
+    printf("Learning C is fun!\n");
+    printf("Thank You!");
+
+    return 0;
+}
+Output
+Welcome to C Programming
+Learning C is fun!
+Thank You!
