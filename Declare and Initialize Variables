@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+    int age = 19;
+    float cgpa = 8.75;
+    char grade = 'A';
+
+    printf("Age = %d\n", age);
+    printf("CGPA = %.2f\n", cgpa);
+    printf("Grade = %c", grade);
+
+    return 0;
+}
+Output
+Age = 19
+CGPA = 8.75
+Grade = A
