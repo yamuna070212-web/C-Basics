@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("ASCII of A = %d\n", 'A');
+    printf("ASCII of B = %d\n", 'B');
+    printf("ASCII of C = %d\n", 'C');
+
+    return 0;
+}
+Output
+ASCII of A = 65
+ASCII of B = 66
+ASCII of C = 67
